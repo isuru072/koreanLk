@@ -1,0 +1,19 @@
+{
+  "name": "koreanlk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isuru072/koreanLk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isuru072/koreanLk/issues"
+  },
+  "homepage": "https://github.com/isuru072/koreanLk#readme"
+}
