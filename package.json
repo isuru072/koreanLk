@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/isuru072/koreanLk/issues"
   },
-  "homepage": "https://github.com/isuru072/koreanLk#readme"
+  "homepage": "https://github.com/isuru072/koreanLk#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
